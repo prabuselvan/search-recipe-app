@@ -1,0 +1,20 @@
+.form-wrapper{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 2rem;
+}
+
+.form-wrapper-btn{
+    margin-left: 30px;
+    padding: 2px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: lightblue;
+    color: black;
+}
+.form-wrapper-input{
+    height: 30px;
+    border-radius: 4px;
+
+}
+

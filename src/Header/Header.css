@@ -1,0 +1,13 @@
+.header-wrapper-header{
+    text-align: center;
+    padding: 20px;
+}
+
+.header-wrapper{
+    background-color: beige;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}

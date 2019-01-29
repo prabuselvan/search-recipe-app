@@ -1,0 +1,48 @@
+.searchLists-wrapper{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.searchLists-wrapper-para{
+    /* padding: 15px; */
+}
+
+.recipes__button {
+    border: solid 2px #e74c3c;
+    background: transparent;
+    padding: 0.4rem 0.6rem;
+    margin: 0 0.2rem;
+    border-radius: 1px;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-left: 0.7rem;
+    margin-left: 116px;
+}
+.recipes__box {
+    background: #fff;
+    padding-bottom: 2rem;
+    border-radius: 5px;
+    box-shadow: -1px 2px 34px -13px rgba(0,0,0,0.75);
+    text-align: left;
+    overflow: hidden;
+  }
+
+
+  button:focus {
+      outline: none;
+  }
+
+  img{
+      width: 100%;
+      height: 220px;
+  }
+
+  .recipes__title{
+      text-align: center;
+      padding: 3px;
+  }
+
+  .recipes_publisher{
+      text-align: center;
+  }

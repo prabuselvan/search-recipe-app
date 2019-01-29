@@ -21,6 +21,14 @@
 .App-link {
   color: #61dafb;
 }
+.active-recipe__img{
+  width: 800px;
+  height: 600px;
+}
+
+.active-recipe__title{
+  text-align: left;
+}
 
 @keyframes App-logo-spin {
   from {
